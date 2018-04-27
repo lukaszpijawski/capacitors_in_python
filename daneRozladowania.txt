@@ -1,0 +1,28 @@
+Pojemnosc:  		1.0 [F]
+Opor:       		2.0 [om]
+Ladunek poczatkowy: 	4.0 [C]
+Czas rozladowania:  	10.0 [s]
+Pozostaly ladunek:  	0.0269517879963 [C]
+############################################################################################
+
+Pojemnosc:  		5.6e-07 [F]
+Opor:       		100.0 [om]
+Ladunek poczatkowy: 	4.6e-07 [C]
+Czas rozladowania:  	0.00028 [s]
+Pozostaly ladunek:  	3.09945561958e-09 [C]
+############################################################################################
+
+Pojemnosc:  		5e-06 [F]
+Opor:       		10.0 [om]
+Ladunek poczatkowy: 	5.4e-05 [C]
+Czas rozladowania:  	0.00025 [s]
+Pozostaly ladunek:  	3.63849137951e-07 [C]
+############################################################################################
+
+Pojemnosc:  		2.0 [F]
+Opor:       		2.0 [om]
+Ladunek poczatkowy: 	2.0 [C]
+Czas rozladowania:  	20.0 [s]
+Pozostaly ladunek:  	0.0134758939982 [C]
+############################################################################################
+

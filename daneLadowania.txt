@@ -1,0 +1,49 @@
+Pojemnosc:  		1.0 [F]
+Opor:       		2.0 [om]
+Sila elektromotoryczna: 	3.0 [V]
+Czas ladowania: 		10.0 [s]
+Zgromadzony ladunek: 	2.979786159 [C]
+############################################################################################
+
+Pojemnosc:  		5.6e-07 [F]
+Opor:       		100.0 [om]
+Sila elektromotoryczna: 3.0 [V]
+Czas ladowania: 	0.00028 [s]
+Zgromadzony ladunek: 	1.66868024904e-06 [C]
+############################################################################################
+
+Pojemnosc:  		5.6e-07 [F]
+Opor:       		100.0 [om]
+Sila elektromotoryczna: 	3.0 [V]
+Czas ladowania: 		0.00028 [s]
+Zgromadzony ladunek: 	1.66868024904e-06 [C]
+############################################################################################
+
+Pojemnosc:  		5.6e-07 [F]
+Opor:       		100.0 [om]
+Sila elektromotoryczna: 	3.0 [V]
+Czas ladowania: 		0.00028 [s]
+Zgromadzony ladunek: 	1.66868024904e-06 [C]
+############################################################################################
+
+Pojemnosc:  		5e-06 [F]
+Opor:       		10.0 [om]
+Sila elektromotoryczna: 	3.0 [V]
+Czas ladowania: 		0.00025 [s]
+Zgromadzony ladunek: 	1.4898930795e-05 [C]
+############################################################################################
+
+Pojemnosc:  		2.0 [F]
+Opor:       		2.0 [om]
+Sila elektromotoryczna: 	2.0 [V]
+Czas ladowania: 		20.0 [s]
+Zgromadzony ladunek: 	3.973048212 [C]
+############################################################################################
+
+Pojemnosc:  		2.0 [F]
+Opor:       		2.0 [om]
+Sila elektromotoryczna: 	2.0 [V]
+Czas ladowania: 		20.0 [s]
+Zgromadzony ladunek: 	3.973048212 [C]
+############################################################################################
+

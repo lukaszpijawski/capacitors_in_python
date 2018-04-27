@@ -1,0 +1,405 @@
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.0 [F]                       	4.0 [F]
+Opory:				2.0 [om]                      	2.0 [om]
+Sily elektromotoryczne:		2.0 [V]                       	4.0 [V]
+Czasy ladowania:			10.0 [s]                      	40.0 [s]
+Zgromadzone ladunki:		1.986524106 [C]               	15.892192848 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.4e-10 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	3.0 [V]
+Czasy ladowania:			7.5e-08 [s]                   	7e-08 [s]
+Zgromadzone ladunki:		4.4696792385e-10 [C]          	4.1717006226e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			3e-10 [F]                     	1.4e-10 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	3.0 [V]
+Czasy ladowania:			1.5e-07 [s]                   	7e-08 [s]
+Zgromadzone ladunki:		8.93935847701e-10 [C]         	4.1717006226e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			3.1e-10 [F]                   	1.4e-10 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	3.0 [V]
+Czasy ladowania:			1.55e-07 [s]                  	7e-08 [s]
+Zgromadzone ladunki:		9.23733709291e-10 [C]         	4.1717006226e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			2.3e-07 [F]                   	1.4e-10 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	3.0 [V]
+Czasy ladowania:			0.000115 [s]                  	7e-08 [s]
+Zgromadzone ladunki:		6.85350816571e-07 [C]         	4.1717006226e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			2.3e-07 [F]                   	1.4e-08 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	3.0 [V]
+Czasy ladowania:			0.000115 [s]                  	7e-06 [s]
+Zgromadzone ladunki:		6.85350816571e-07 [C]         	4.1717006226e-08 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			2.3e-05 [F]                   	1.4e-05 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	3.0 [V]
+Czasy ladowania:			0.0115 [s]                    	0.007 [s]
+Zgromadzone ladunki:		6.85350816571e-05 [C]         	4.1717006226e-05 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			2.4e-10 [F]                   		1.3e-10 [F]
+Opory:				50.0 [om]                     		50.0 [om]
+Sily elektromotoryczne:		2.0 [V]                       		2.0 [V]
+Czasy ladowania:			6e-08 [s]                     		3.25e-08 [s]
+Zgromadzone ladunki:		4.7676578544e-10 [C]          		2.5824813378e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5.4e-11 [F]                   		2.4e-11 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		4.0 [V]                       		4.0 [V]
+Czasy ladowania:			2.7e-08 [s]                   		1.2e-08 [s]
+Zgromadzone ladunki:		2.14544603448e-10 [C]         		9.53531570881e-11 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5.4e-07 [F]                   		2.4e-07 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		4.0 [V]                       		4.0 [V]
+Czasy ladowania:			0.00027 [s]                   		0.00012 [s]
+Zgromadzone ladunki:		2.14544603448e-06 [C]         		9.53531570881e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5.4e-07 [F]                   		2.4e-07 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		4.0 [V]                       		4.0 [V]
+Czasy ladowania:			0.00027 [s]                   		0.00012 [s]
+Zgromadzone ladunki:		2.14544603448e-06 [C]         		9.53531570881e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			2.13e-11 [F]                  		3.4e-12 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		4.0 [V]
+Czasy ladowania:			1.065e-08 [s]                 		1.7e-09 [s]
+Zgromadzone ladunki:		6.34694451868e-11 [C]         	1.35083639208e-11 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.0 [F]                       		2.0 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		4.0 [V]
+Czasy ladowania:			500.0 [s]                     		1000.0 [s]
+Zgromadzone ladunki:		2.979786159 [C]               	7.94609642401 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.0 [F]                       		2.0 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		3.0 [V]
+Czasy ladowania:			500.0 [s]                     		1000.0 [s]
+Zgromadzone ladunki:		2.979786159 [C]               	5.95957231801 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5e-07 [F]                     		6e-06 [F]
+Opory:				100.0 [om]                    		100.0 [om]
+Sily elektromotoryczne:		2.0 [V]                       		2.0 [V]
+Czasy ladowania:			0.00025 [s]                   		0.003 [s]
+Zgromadzone ladunki:		9.93262053001e-07 [C]         	1.1919144636e-05 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   		6e-11 [F]
+Opory:				25.0 [om]                     		40.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			1.875e-08 [s]                 		1.2e-08 [s]
+Zgromadzone ladunki:		4.4696792385e-10 [C]          	1.1919144636e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   		6e-11 [F]
+Opory:				25.0 [om]                     		40.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			1.875e-08 [s]                 		1.2e-08 [s]
+Zgromadzone ladunki:		4.4696792385e-10 [C]          	1.1919144636e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   		6e-11 [F]
+Opory:				25.0 [om]                     		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			1.875e-08 [s]                 		3e-08 [s]
+Zgromadzone ladunki:		4.4696792385e-10 [C]          	1.1919144636e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-08 [F]                   		6e-11 [F]
+Opory:				25.0 [om]                     		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			1.875e-06 [s]                 		3e-08 [s]
+Zgromadzone ladunki:		4.4696792385e-08 [C]          	1.1919144636e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-12 [F]                   		6e-11 [F]
+Opory:				25.0 [om]                     		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			1.875e-10 [s]                 		3e-08 [s]
+Zgromadzone ladunki:		4.4696792385e-12 [C]          	1.1919144636e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-05 [F]                   		6e-05 [F]
+Opory:				25.0 [om]                     		100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			0.001875 [s]                  		0.03 [s]
+Zgromadzone ladunki:		4.4696792385e-05 [C]          	0.00011919144636 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			0.0004 [F]                    		5e-06 [F]
+Opory:				100.0 [om]                    		80.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       		2.0 [V]
+Czasy ladowania:			0.2 [s]                       		0.002 [s]
+Zgromadzone ladunki:		0.0011919144636 [C]           	9.93262053001e-06 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-11 [F]                   5e-12 [F]
+                    Opory:				100.0 [om]                    80.0 [om]
+                    Sily elektromotoryczne:		3.0 [V]                       2.0 [V]
+                      Czasy ladowania:			7.5e-09 [s]                   2e-09 [s]
+                    Zgromadzone ladunki:		4.4696792385e-11 [C]          9.93262053001e-12 [C]
+        ############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.4e-11 [F]                             5e-11 [F]
+Opory:				100.0 [om]                              100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                                 2.0 [V]
+Czasy ladowania:			7e-09 [s]                               2.5e-08 [s]
+Zgromadzone ladunki:		4.1717006226e-11 [C]                    9.93262053001e-11 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-08 [F]                                       6e-08 [F]
+Opory:				100.0 [om]                                        100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                                           3.0 [V]
+Czasy ladowania:			7.5e-06 [s]                                       3e-05 [s]
+Zgromadzone ladunki:		4.4696792385e-08 [C]                              1.7878716954e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                                       5e-10 [F]
+Opory:				100.0 [om]                                        80.0 [om]
+Sily elektromotoryczne:		3.0 [V]                                           2.0 [V]
+Czasy ladowania:			7.5e-08 [s]                                       2e-07 [s]
+Zgromadzone ladunki:		4.4696792385e-10 [C]                              9.93262053001e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                                       5e-10 [F]
+Opory:				100.0 [om]                                       100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                                           3.0 [V]
+Czasy ladowania:			7.5e-08 [s]                                       2.5e-07 [s]
+Zgromadzone ladunki:		4.4696792385e-10 [C]                              1.4898930795e-09 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5e-08 [F]                     		5e-08 [F]
+Opory:				50.0 [om]                     100.0		 [om]
+Sily elektromotoryczne:		5.0 [V]                       		5.0 [V]
+Czasy ladowania:			1.25e-05 [s]                  		2.5e-05 [s]
+Zgromadzone ladunki:		2.4831551325e-07 [C]          	2.4831551325e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5e-08 [F]                     	5e-08 [F]
+Opory:				50.0 [om]                     	50.0 [om]
+Sily elektromotoryczne:		5.0 [V]                   	10.0 [V]
+Czasy ladowania:		1.25e-05 [s]           		1.25e-05 [s]
+Zgromadzone ladunki:		2.4831551325e-07 [C]          	4.966310265e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			6e-08 [F]                     	8e-06 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	2.0 [V]
+Czasy ladowania:			3e-05 [s]                     	0.004 [s]
+Zgromadzone ladunki:		1.7878716954e-07 [C]          	1.5892192848e-05 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5.6e-07 [F]                   	3.4e-07 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	2.0 [V]
+Czasy ladowania:			0.00028 [s]                   	0.00017 [s]
+Zgromadzone ladunki:		1.66868024904e-06 [C]         6.75418196041e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5.6e-07 [F]                   	3.4e-07 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	2.0 [V]
+Czasy ladowania:			0.00028 [s]                   	0.00017 [s]
+Zgromadzone ladunki:		1.66868024904e-06 [C]         	6.75418196041e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			5.6e-07 [F]                   	3.4e-07 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	2.0 [V]
+Czasy ladowania:			0.00028 [s]                   	0.00017 [s]
+Zgromadzone ladunki:		1.66868024904e-06 [C]         6.75418196041e-07 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-07 [F]                   	1.5e-07 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	30.0 [V]
+Czasy ladowania:			7.5e-05 [s]                   	7.5e-05 [s]
+Zgromadzone ladunki:		7.44946539751e-07 [C]         	4.4696792385e-06 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				50.0 [om]                     	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			3.75e-08 [s]                  	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	7.44946539751e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				50.0 [om]                     	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			3.75e-08 [s]                  	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	7.44946539751e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				50.0 [om]                     	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			3.75e-08 [s]                  	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	7.44946539751e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				50.0 [om]                     	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			3.75e-08 [s]                  	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	7.44946539751e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				50.0 [om]                     	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			3.75e-08 [s]                  	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	7.44946539751e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				50.0 [om]                     	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			3.75e-08 [s]                  	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	7.44946539751e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1e-10 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	5.0 [V]
+Czasy ladowania:			7.5e-08 [s]                   	5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	4.966310265e-10 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			1.5e-10 [F]                   	1.5e-10 [F]
+Opory:				100.0 [om]                    	100.0 [om]
+Sily elektromotoryczne:		5.0 [V]                       	30.0 [V]
+Czasy ladowania:			7.5e-08 [s]                   	7.5e-08 [s]
+Zgromadzone ladunki:		7.44946539751e-10 [C]         	4.4696792385e-09 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			4e-07 [F]                     	5e-06 [F]
+Opory:				100.0 [om]                    	80.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	5.0 [V]
+Czasy ladowania:			0.0002 [s]                    	0.002 [s]
+Zgromadzone ladunki:		1.1919144636e-06 [C]          	2.4831551325e-05 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			4e-05 [F]                     	0.0005 [F]
+Opory:				100.0 [om]                    	80.0 [om]
+Sily elektromotoryczne:		3.0 [V]                       	4.0 [V]
+Czasy ladowania:			0.02 [s]                      	0.2 [s]
+Zgromadzone ladunki:		0.00011919144636 [C]          	0.001986524106 [C]
+############################################################################################
+
+Parametry porownywanych kondensatorow:
+--------------------------------------
+Pojemnosci:			2.0 [F]                       	3.0 [F]
+Opory:				2.0 [om]                      	2.0 [om]
+Sily elektromotoryczne:		2.0 [V]                       	2.0 [V]
+Czasy ladowania:			20.0 [s]                      	30.0 [s]
+Zgromadzone ladunki:		3.973048212 [C]               	5.95957231801 [C]
+############################################################################################
+
